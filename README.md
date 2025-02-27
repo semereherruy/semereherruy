@@ -29,7 +29,7 @@ Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle Uni
 
 ### Machine Learning:
 - **Data Preprocessing** (Pandas, Numpy)
-- **Classification Algorithms** (MLPClassifier, KNN, SVM)
+- **Classification Algorithms** (MLPClassifier, Naive Bayes, Mean shift, Random forest. Polynomial Regression)
 
 ### Digital Marketing:
 - **Social Media Management**
