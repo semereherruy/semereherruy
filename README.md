@@ -9,7 +9,7 @@ Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle Uni
 - 💞️ I’m looking to collaborate on projects related to **web and mobile app development**, **machine learning**, and **digital marketing**.
 - 📫 How to reach me: [Telegram](https://t.me/Semere17) | [LinkedIn](https://www.linkedin.com/in/semere-herruy-1833222a4/)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm passionate about exploring the internet and adapting to new tech trends! If you knew me yesterday, you don't know me today — I grow daily. 😉
+- ⚡ Fun fact: I'm passionate about exploring the internet and adapting to new tech trends! "If you knew me yesterday, you don't know me today — I grow daily." 😉
 
 ---
 
