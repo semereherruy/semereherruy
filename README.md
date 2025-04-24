@@ -1,5 +1,5 @@
 # About Me 👋
-Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle University**, constantly learning and evolving in the world of tech. I’m passionate about **full-stack development**, **UI/UX design**, **digital marketing**, and exploring **innovative technologies**. 🌱
+Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle University**, constantly learning and evolving in the world of tech. I’m passionate about **full-stack development**, **digital marketing**, and exploring **innovative technologies**. 🌱
 
 🔍 I enjoy tackling challenges that involve combining **creativity with technology**. Whether it's building sleek, user-friendly websites or diving into the world of **machine learning**, I'm always eager to learn and adapt. 📚
 
