@@ -19,10 +19,6 @@ Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle Uni
 - **Full-Stack Web Development** (Laravel, PHP, MySQL)
 - **Mobile App Development** (React Native, JavaScript)
 
-### Design:
-- **UI/UX Design** (Figma/Lunacy)
-- **Responsive Web Design** (HTML5, CSS3, Bootstrap, TailwindCSS)
-
 ### Tools:
 - **Version Control** (Git, GitHub)
 - **Database Management** (MySQL)
