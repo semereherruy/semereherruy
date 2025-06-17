@@ -16,8 +16,7 @@ Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle Uni
 ## 💻 Skills & Technologies
 
 ### Development:
-- **Full-Stack Web Development** (Laravel, PHP, MySQL)
-- **Mobile App Development** (React Native, JavaScript)
+- **Backend Development** (Laravel, Springboot, PHP, MySQL)
 
 ### Tools:
 - **Version Control** (Git, GitHub)
