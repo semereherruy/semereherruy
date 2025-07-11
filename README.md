@@ -32,3 +32,15 @@ Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle Uni
 
 ---
 
+## 🧩 Live Projects Overview
+
+### 🧼 Rora Cleaning Services Website  
+- **Live:** [https://rora.great-site.net](https://rora.great-site.net)  
+- **Tech Stack:** PHP, HTML, CSS, JS  
+- **Note:** Codebase is private to protect client data.
+
+### 🛒 BluStock E-Commerce Platform  
+- **Live:** [https://blustock.free.nf/d_index.php](https://blustock.free.nf/d_index.php)  
+- **Tech Stack:** PHP, MySQL, JS  
+- **Note:** Repository is private due to business logic protection.
+
