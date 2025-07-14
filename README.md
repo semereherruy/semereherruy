@@ -5,7 +5,7 @@ Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle Uni
 
 ---
 - 👀 I’m interested in **backend development**, **digital marketing**.
-- 🌱 I’m currently a software engineering student at Mekelle University, learning and developing skills in **Laravel**, **React Native**, **machine learning**, and more.
+- 🌱 I’m currently a software engineering student at Mekelle University, learning and developing skills in **Laravel**, **Flutter**, **machine learning**, and more.
 - 💞️ I’m looking to collaborate on projects related to **web and mobile app development**, **machine learning**, and **digital marketing**.
 - 📫 How to reach me: [Telegram](https://t.me/Semere17) | [LinkedIn](https://www.linkedin.com/in/semere-herruy-1833222a4/)
 - 😄 Pronouns: **He/Him**
