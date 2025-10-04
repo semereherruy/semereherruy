@@ -1,46 +1,62 @@
-# About Me 👋
-Hi, I’m @semereherruy! I'm a **software engineering student** at **Mekelle University**, constantly learning and evolving in the world of tech. I’m passionate about **full-stack development**, **digital marketing**, and exploring **innovative technologies**. 🌱
+About Me 👋
 
-🔍 I enjoy tackling challenges that involve combining **creativity with technology**. Whether it's building sleek, user-friendly websites or diving into the world of **machine learning**, I'm always eager to learn and adapt. 📚
+Hi, I’m @semereherruy! I'm a software engineering student at Mekelle University, passionate about bringing ideas to life with code. I enjoy exploring full-stack development, machine learning, and digital marketing, always looking for innovative ways to solve problems. 🌱
 
----
-- 👀 I’m interested in **backend development**, **digital marketing**.
-- 🌱 I’m currently a software engineering student at Mekelle University, learning and developing skills in **Laravel**, **Flutter**, **machine learning**, and more.
-- 💞️ I’m looking to collaborate on projects related to **web and mobile app development**, **machine learning**, and **digital marketing**.
-- 📫 How to reach me: [Telegram](https://t.me/Semere17) | [LinkedIn](https://www.linkedin.com/in/semere-herruy-1833222a4/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm passionate about exploring the internet and adapting to new tech trends! "If you knew me yesterday, you don't know me today — I grow daily." 😉
+🔍 I love tackling challenges that combine creativity with technology. From building sleek, user-friendly websites to exploring AI and ML solutions, I’m always learning and growing. 📚
 
----
+Interests & Focus
 
-## 💻 Skills & Technologies
+👀 Interested in backend development, machine learning, and digital marketing
 
-### Development:
-- **Backend Development** (Laravel, Springboot, PHP, MySQL)
+🌱 Developing skills in Laravel, Flutter, React, Node.js, MySQL, and ML algorithms
 
-### Tools:
-- **Version Control** (Git, GitHub)
-- **Database Management** (MySQL)
+💞️ Open to collaborating on projects involving web & mobile apps, AI/ML solutions, or digital marketing campaigns
 
-### Machine Learning:
-- **Data Preprocessing** (Pandas, Numpy)
-- **Classification Algorithms** (MLPClassifier, Naive Bayes, Mean shift, Random forest. Polynomial Regression)
+📫 Contact me: Telegram
+ | LinkedIn
 
-### Digital Marketing:
-- **Social Media Management**
-- **SEO & App store optimization**
+😄 Pronouns: He/Him
 
----
+⚡ Fun fact: "If you knew me yesterday, you don't know me today — I grow daily."
 
-## 🧩 Live Projects Overview
+💻 Skills & Technologies
+Development
 
-### 🧼 Rora Cleaning Services Website  
-- **Live:** [https://rora.great-site.net](https://rora.great-site.net)  
-- **Tech Stack:** PHP, HTML, CSS, JS  
-- **Note:** Codebase is private to protect client data.
+Backend: Laravel, Spring Boot, PHP, Node.js, MySQL
 
-### 🛒 BluStock E-Commerce Platform  
-- **Live:** [https://blustock.free.nf/d_index.php](https://blustock.free.nf/d_index.php)  
-- **Tech Stack:** PHP, MySQL, JS  
-- **Note:** Repository is private due to business logic protection.
+Frontend: React, Flutter, HTML, CSS, JavaScript
 
+Tools
+
+Version Control: Git, GitHub
+
+Database Management: MySQL
+
+Machine Learning
+
+Data Preprocessing: Pandas, NumPy
+
+Algorithms: MLPClassifier, Naive Bayes, Random Forest, Mean Shift, Polynomial Regression
+
+Digital Marketing
+
+Social Media Management
+
+SEO & App Store Optimization
+
+🧩 Selected Projects
+🧼 Rora Cleaning Services Website
+
+Live: rora.great-site.net
+
+Tech Stack: PHP, HTML, CSS, JS
+
+Note: Codebase private to protect client data
+
+🛒 BluStock E-Commerce Platform
+
+Live: blustock.free.nf/d_index.php
+
+Tech Stack: PHP, MySQL, JS
+
+Note: Repository private due to business logic protection
