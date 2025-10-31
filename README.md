@@ -44,7 +44,6 @@ Hi, I’m **@semereherruy**! I'm a **software engineering student** at **Mekelle
 - **Note:** Codebase private to protect client data  
 
 ### 🛒 BluStock E-Commerce Platform
-- **Live:** [blustock.free.nf/d_index.php](https://blustock.free.nf/d_index.php)  
 - **Tech Stack:** PHP, MySQL, JS  
 - **Note:** Repository private due to business logic protection  
 
