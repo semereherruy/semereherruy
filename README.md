@@ -1,6 +1,6 @@
 # Semere Herruy 👋
 
-[![Followers](https://img.shields.io/github/followers/semereherruy?label=Followers\&style=for-the-badge)](https://github.com/semereherruy)
+(https://github.com/semereherruy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Semere%20Herruy-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/semere-herruy-1833222a4/)
 [![Telegram](https://img.shields.io/badge/Telegram-Semere17-26A5E4?style=for-the-badge\&logo=telegram)](https://t.me/Semere17)
 
