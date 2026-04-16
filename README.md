@@ -89,6 +89,14 @@ Production-ready landing page for an international travel and visa consultancy b
 **Tech: React • TypeScript • Vite • React Helmet Async
 **Live: https://ethio-travel-agency.vercel.app
 
+### 🛒 Nebi Store — E-commerce Frontend
+A modern, responsive e-commerce frontend inspired by real-world retail platforms, built with a focus on UX, scalability, and production-ready architecture. The project simulates a full shopping experience with a clean, modular frontend design and is structured to easily integrate with real backend services.
+
+**Highlights: Product browsing, search, and filtering • Dynamic product detail pages • Shopping cart with quantity management and persistent storage • Complete checkout flow with form validation • Mock-data-driven product system with architecture prepared for REST API integration • Accessibility-first design (WCAG compliant, keyboard navigation, screen reader support) • Performance optimization (lazy loading, image optimization, efficient state handling)
+
+**Tech: React • Vite • TypeScript • Tailwind CSS
+**Live: https://mini-ecommerce-app-git-main-semeres-projects.vercel.app/
+
 ### 🏥 FastCare — Healthcare Matching Platform
 
 A production-minded platform connecting patients, doctors, and pharmacies with intelligent matching and real-time notifications.
