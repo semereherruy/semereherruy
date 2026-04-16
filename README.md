@@ -83,18 +83,24 @@ AI question-answering system for Teff and Maize tailored to smallholder farmers.
 **Tech:** FastAPI backend, React frontend, document retrieval, structured logging, multi-language handling
 **Repo:** [https://github.com/semereherruy/ai-agri-advisor-rag](https://github.com/semereherruy/ai-agri-advisor-rag) — run instructions included in the repo.
 
+### 🌍 EthioGlobe Travel & Consulting — Agency Website
+Production-ready landing page for an international travel and visa consultancy based in Addis Ababa, designed to convert visitors into clients.
+**Highlights: Conversion-focused UI/UX • SEO optimization with structured metadata • Fully responsive mobile-first design • Performance optimization (lazy loading, code splitting) • PWA-ready with offline support
+**Tech: React • TypeScript • Vite • React Helmet Async
+**Live: https://ethio-travel-agency.vercel.app
+
 ### 🏥 FastCare — Healthcare Matching Platform
 
 A production-minded platform connecting patients, doctors, and pharmacies with intelligent matching and real-time notifications.
 **Highlights:** ML symptom analysis (sentence-transformer + KNN) • Spatial KNN + fallback matching for nearby providers • Real-time notifications (FCM + WebSockets) • Role-based access, pharmacy workflows, and admin dashboards
 **Tech:** NestJS • Prisma • PostgreSQL • React • Socket.IO • Python ML service
-**Repo (example):** [https://github.com/semereherruy/fastcare](https://github.com/semereherruy/fastcare)
+**Code available upon request
 
 ### 💳 LoanDecisionAgent — Credit Scoring & Explainability
 
 End-to-end loan scoring system with LightGBM models, explainability (SHAP), ML inference APIs, and vendor dashboards.
 **Features:** Batch scoring and monitoring UI • Model explainability and versioning • Dockerized CI/CD and deployment scripts
-**Repo (example):** [https://github.com/semereherruy/LoanDecisionAgent](https://github.com/semereherruy/LoanDecisionAgent)
+**Code available upon request
 
 ### 🔌 Payflow — Payments & Chapa Integration
 
