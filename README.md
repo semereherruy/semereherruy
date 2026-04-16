@@ -85,30 +85,30 @@ AI question-answering system for Teff and Maize tailored to smallholder farmers.
 
 ### 🌍 EthioGlobe Travel & Consulting — Agency Website
 Production-ready landing page for an international travel and visa consultancy based in Addis Ababa, designed to convert visitors into clients.
-**Highlights: Conversion-focused UI/UX • SEO optimization with structured metadata • Fully responsive mobile-first design • Performance optimization (lazy loading, code splitting) • PWA-ready with offline support
-**Tech: React • TypeScript • Vite • React Helmet Async
-**Live: https://ethio-travel-agency.vercel.app
+**Highlights:** Conversion-focused UI/UX • SEO optimization with structured metadata • Fully responsive mobile-first design • Performance optimization (lazy loading, code splitting) • PWA-ready with offline support
+**Tech:** React • TypeScript • Vite • React Helmet Async
+**Live:** https://ethio-travel-agency.vercel.app
 
 ### 🛒 Nebi Store — E-commerce Frontend
 A modern, responsive e-commerce frontend inspired by real-world retail platforms, built with a focus on UX, scalability, and production-ready architecture. The project simulates a full shopping experience with a clean, modular frontend design and is structured to easily integrate with real backend services.
 
-**Highlights: Product browsing, search, and filtering • Dynamic product detail pages • Shopping cart with quantity management and persistent storage • Complete checkout flow with form validation • Mock-data-driven product system with architecture prepared for REST API integration • Accessibility-first design (WCAG compliant, keyboard navigation, screen reader support) • Performance optimization (lazy loading, image optimization, efficient state handling)
+**Highlights:** Product browsing, search, and filtering • Dynamic product detail pages • Shopping cart with quantity management and persistent storage • Complete checkout flow with form validation • Mock-data-driven product system with architecture prepared for REST API integration • Accessibility-first design (WCAG compliant, keyboard navigation, screen reader support) • Performance optimization (lazy loading, image optimization, efficient state handling)
 
-**Tech: React • Vite • TypeScript • Tailwind CSS
-**Live: https://mini-ecommerce-app-git-main-semeres-projects.vercel.app/
+**Tech:** React • Vite • TypeScript • Tailwind CSS
+**Live:** https://mini-ecommerce-app-git-main-semeres-projects.vercel.app/
 
 ### 🏥 FastCare — Healthcare Matching Platform
 
 A production-minded platform connecting patients, doctors, and pharmacies with intelligent matching and real-time notifications.
 **Highlights:** ML symptom analysis (sentence-transformer + KNN) • Spatial KNN + fallback matching for nearby providers • Real-time notifications (FCM + WebSockets) • Role-based access, pharmacy workflows, and admin dashboards
 **Tech:** NestJS • Prisma • PostgreSQL • React • Socket.IO • Python ML service
-**Code available upon request
+**Code available upon request**
 
 ### 💳 LoanDecisionAgent — Credit Scoring & Explainability
 
 End-to-end loan scoring system with LightGBM models, explainability (SHAP), ML inference APIs, and vendor dashboards.
 **Features:** Batch scoring and monitoring UI • Model explainability and versioning • Dockerized CI/CD and deployment scripts
-**Code available upon request
+**Code available upon request**
 
 ### 🔌 Payflow — Payments & Chapa Integration
 
