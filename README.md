@@ -5,14 +5,14 @@
 
 ---
 
-> Hi, I’m Semere Herruy 👋 Software engineer building AI systems, backend platforms, and production-ready services. I focus on practical models that solve real problems—especially in healthcare, agriculture, and financial decision systems—by combining machine learning and robust backend architecture. I’m actively shipping projects, improving systems, and learning how to scale products from MVP → production.
+> Hi, I’m Semere Herruy 👋 Software engineer building AI systems, backend platforms, and building and iterating toward production-ready systems. I focus on practical models that solve real problems—especially in healthcare, agriculture, and financial decision systems—by combining machine learning and robust backend architecture. I’m actively shipping projects, improving systems, and learning how to scale products from MVP → production.
 
 ---
 
 ## 🚀 Core Focus
 
 * **AI / Machine Learning (applied)** — production RAG, classification, explainability
-* **Backend Architecture** — scalable APIs, event-driven systems, real-time features
+* **Backend Architecture** — scalable APIs, Micro-service systems
 * **AI-driven Products** — healthcare, agriculture, credit scoring, automation
 * **Productization & Integrations** — payments, notifications, and deployment
 
